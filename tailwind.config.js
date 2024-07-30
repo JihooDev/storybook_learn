@@ -36,7 +36,7 @@ export default {
         {
           lineHeight: "27px",
           letterSpacing: "0",
-          fontWeight: "400"
+          fontWeight: "700"
         }
       ],
       xl: [
@@ -44,7 +44,7 @@ export default {
         {
           lineHeight: "30px",
           letterSpacing: "0",
-          fontWeight: "400"
+          fontWeight: "700"
         }
       ],
     },
